@@ -17,6 +17,7 @@
    
 --Technical Skills
 1. Data Analytics
+   
 SQL
 Power BI
 Microsoft Excel
@@ -24,11 +25,13 @@ Data Cleaning
 Data Visualization
 Dashboard Development
 Data Analysis
-2. Programming
+3. Programming
+
 Python
 Pandas
 NumPy
-3. Research & Biotechnology
+4. Research & Biotechnology
+
 Scientific Research
 Experimental Design
 Literature Review
