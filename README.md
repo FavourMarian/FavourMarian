@@ -8,11 +8,11 @@
 - 😄 Pronouns: She/Her
 -Currently, I am:
 
-🔬 Conducting postgraduate research in Biotechnology
-📊 Building projects in Data Analytics and Data Science
-🐍 Expanding my Python and Machine Learning skills
-📈 Developing interactive dashboards and data visualizations
-🌱 Continuously learning and improving my research and analytical capabilities
+1. 🔬 Conducting postgraduate research in Biotechnology
+2. 📊 Building projects in Data Analytics and Data Science
+3. 🐍 Expanding my Python and Machine Learning skills
+4. 📈 Developing interactive dashboards and data visualizations
+5. 🌱 Continuously learning and improving my research and analytical capabilities
 --Technical Skills
 -Data Analytics
 SQL
