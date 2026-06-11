@@ -26,13 +26,13 @@ Data Visualization
 Dashboard Development
 Data Analysis
 
-3. Programming
+2. Programming
 
 Python
 Pandas
 NumPy
 
-4. Research & Biotechnology
+3. Research & Biotechnology
 
 Scientific Research
 Experimental Design
