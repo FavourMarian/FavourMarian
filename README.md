@@ -1,10 +1,41 @@
-- 👋 Hello, Welcome to my GitHub
-- My Name is Ibrahim Favour
-- 🌱 I am skilled in Data Analysis with Entry level proficiency in Excel, SQL, and Power BI.
-- 💞️ I’m looking to collaborate on Data Analytics and Entry roles (Internship, Freelancing, Remote and Permanent roles)...
-- 📫 Contact me ibrahimfavour43@gmail.com
-- 😄 Pronouns: She/Her
+- 👋 Hi There
+- My Name is Favour Ibrahim
+- I am an MSc Biotechnology student with a background in Biochemistry and a growing specialization in Data Analytics, Data Science, and Machine Learning.
+- My interests lie at the intersection of scientific research and data-driven decision-making. I enjoy transforming complex datasets into actionable insights and applying analytical approaches to solve real-world problems in healthcare, biotechnology, and business.
+- 📫 Contact me ibrahimfavour43@gmail.com, LinkedIn: www.linkedin.com/in/favour-ibrahim
 
+
+- 😄 Pronouns: She/Her
+-Currently, I am:
+
+🔬 Conducting postgraduate research in Biotechnology
+📊 Building projects in Data Analytics and Data Science
+🐍 Expanding my Python and Machine Learning skills
+📈 Developing interactive dashboards and data visualizations
+🌱 Continuously learning and improving my research and analytical capabilities
+--Technical Skills
+-Data Analytics
+SQL
+Power BI
+Microsoft Excel
+Data Cleaning
+Data Visualization
+Dashboard Development
+Data Analysis
+-Programming
+Python
+Pandas
+NumPy
+-Research & Biotechnology
+Scientific Research
+Experimental Design
+Literature Review
+Statistical Analysis
+Molecular Biology
+Cell Culture
+RNA Extraction
+qPCR
+Data Interpretation
 <!---
 FavourMarian/FavourMarian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
