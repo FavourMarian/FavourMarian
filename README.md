@@ -6,6 +6,7 @@
 
 
 - 😄 Pronouns: She/Her
+
 -Currently, I am:
 
 1. 🔬 Conducting postgraduate research in Biotechnology
@@ -13,8 +14,9 @@
 3. 🐍 Expanding my Python and Machine Learning skills
 4. 📈 Developing interactive dashboards and data visualizations
 5. 🌱 Continuously learning and improving my research and analytical capabilities
+   
 --Technical Skills
--Data Analytics
+1. Data Analytics
 SQL
 Power BI
 Microsoft Excel
@@ -22,11 +24,11 @@ Data Cleaning
 Data Visualization
 Dashboard Development
 Data Analysis
--Programming
+2. Programming
 Python
 Pandas
 NumPy
--Research & Biotechnology
+3. Research & Biotechnology
 Scientific Research
 Experimental Design
 Literature Review
