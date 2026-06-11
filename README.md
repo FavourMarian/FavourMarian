@@ -25,11 +25,13 @@ Data Cleaning
 Data Visualization
 Dashboard Development
 Data Analysis
+
 3. Programming
 
 Python
 Pandas
 NumPy
+
 4. Research & Biotechnology
 
 Scientific Research
